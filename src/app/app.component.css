@@ -1,0 +1,18 @@
+
+.descricao {
+    text-align: justify;
+    margin-bottom: 70px;
+    padding: 10px;
+}
+
+body{
+    background-color: #BDE9C9;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 300px;
+    padding: 5px;
+    
+}
